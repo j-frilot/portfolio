@@ -5,6 +5,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
 let projects = [
     {
+        img: "https://res.cloudinary.com/dsip2gx3i/image/upload/c_scale,h_300,q_auto/v1628141267/misc/application-tracker-ipad.jpg",
+        title: "Application Tracker",
+        link: "https://application-tracker-jf.netlify.app/",
+        code: "https://github.com/j-frilot/job-site"
+    },
+    {
         img: "https://res.cloudinary.com/dsip2gx3i/image/upload/c_scale,h_300,q_auto/v1623107920/portfolio/work-calebras.jpg",
         title: "Calebra's Heart CPR Training LLC",
         link: "https://cpr-jf.netlify.app/"
